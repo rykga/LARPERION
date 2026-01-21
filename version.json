@@ -6,6 +6,7 @@
       "version": "v2.0.0",
       "date": "January 2026",
       "changes": [
+        "✨ test",
         "✨ New Hyperion-style UI",
         "🎨 Smooth animations",
         "🏠 Home dashboard",
@@ -35,3 +36,4 @@
     }
   ]
 }
+
