@@ -1,22 +1,28 @@
 {
-  "latestVersion": "2.0.0",
+  "latestVersion": "2.0.1",
   "downloadUrl": "https://github.com/rykga/LARPERION/releases/latest",
   "patchNotes": [
     {
-      "version": "v2.0.0",
-      "date": "January 2026",
+      "version": "v2.0.1",
+      "date": "20 January 2026",
       "changes": [
-        "✨ test",
-        "✨ New Hyperion-style UI",
+        "🖇️ Patch Notes",
         "🎨 Smooth animations",
+        "🔧 Performance boost"
+      ]
+    },
+    {
+      "version": "v2.0.0",
+      "date": "20 January 2026",
+      "changes": [
+        "✨ Fully Updated UI",
         "🏠 Home dashboard",
-        "🔧 Performance boost",
         "📡 Auto version check"
       ]
     },
     {
       "version": "v1.5.0",
-      "date": "December 2025",
+      "date": "19 January 2026",
       "changes": [
         "➕ Limited items support",
         "💰 Best price detection",
@@ -26,7 +32,7 @@
     },
     {
       "version": "v1.0.0",
-      "date": "November 2025",
+      "date": "18 January 2026",
       "changes": [
         "🎉 Initial release",
         "👤 Profile spoofing",
@@ -36,5 +42,6 @@
     }
   ]
 }
+
 
 
