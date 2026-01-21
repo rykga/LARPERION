@@ -1,6 +1,6 @@
 {
   "latestVersion": "2.0.0",
-  "downloadUrl": "https://github.com/YOUR_USERNAME/larperion/releases/latest",
+  "downloadUrl": "https://github.com/rykga/LARPERION/releases/latest",
   "patchNotes": [
     {
       "version": "v2.0.0",
@@ -36,4 +36,5 @@
     }
   ]
 }
+
 
