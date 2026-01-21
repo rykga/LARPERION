@@ -1,0 +1,37 @@
+{
+  "latestVersion": "2.0.0",
+  "downloadUrl": "https://github.com/YOUR_USERNAME/larperion/releases/latest",
+  "patchNotes": [
+    {
+      "version": "v2.0.0",
+      "date": "January 2026",
+      "changes": [
+        "✨ New Hyperion-style UI",
+        "🎨 Smooth animations",
+        "🏠 Home dashboard",
+        "🔧 Performance boost",
+        "📡 Auto version check"
+      ]
+    },
+    {
+      "version": "v1.5.0",
+      "date": "December 2025",
+      "changes": [
+        "➕ Limited items support",
+        "💰 Best price detection",
+        "📊 Transaction tracking",
+        "🎭 Avatar/Banner spoofing"
+      ]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "November 2025",
+      "changes": [
+        "🎉 Initial release",
+        "👤 Profile spoofing",
+        "💵 Robux spoofing",
+        "🛍️ Fake purchases"
+      ]
+    }
+  ]
+}
