@@ -4,9 +4,11 @@
   "patchNotes": [
     {
       "version": "v2.0.1",
-      "date": "20 January 2026",
+      "date": "21 January 2026",
       "changes": [
+        "🌐 License system",
         "🖇️ Patch Notes",
+        "💤 Better security",
         "🎨 Smooth animations",
         "🔧 Performance boost"
       ]
@@ -42,6 +44,7 @@
     }
   ]
 }
+
 
 
 
