@@ -1,7 +1,14 @@
 {
-  "latestVersion": "2.0.1",
+  "latestVersion": "2.1..",
   "downloadUrl": "https://github.com/rykga/LARPERION/releases/latest",
   "patchNotes": [
+    {
+      "version": "v2.1.0",
+      "date": "23 January 2026",
+      "changes": [
+        "🌐 EVEN BETTER license",
+        "🐛 Bug Fixes"
+      ]
     {
       "version": "v2.0.1",
       "date": "21 January 2026",
@@ -44,6 +51,7 @@
     }
   ]
 }
+
 
 
 
